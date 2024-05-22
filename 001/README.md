@@ -1,4 +1,4 @@
-# Python Day 1: Workout Routine Generator
+# Python Day 1: CLI Workout Routine Generator
 
 **Goal: Practice Basic Python**
 
